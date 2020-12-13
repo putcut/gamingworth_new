@@ -5,7 +5,7 @@ exports.createPages = async ({ graphql, actions, reporter }) => {
   const { createPage } = actions
 
   // Define a template for blog post
-  const blogPost = path.resolve(`./src/templates/blog-post.js`)
+  const blogPost = path.resolve(`./src/templates/post.js`)
 
   // Get all markdown blog posts sorted by date
   const result = await graphql(
@@ -103,9 +103,11 @@ exports.createSchemaCustomization = ({ actions }) => {
     }
 
     type Frontmatter {
-      title: String
+      title: String!
       description: String
-      date: Date @dateformat
+      date: Date! @dateformat
+      file: String!
+      filesize: Int!
     }
 
     type Fields {
