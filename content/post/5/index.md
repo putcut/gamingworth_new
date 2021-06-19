@@ -1,5 +1,5 @@
 ---
-title: Red Bull Gives You Wings. You will spread your wings.
+title: Red Bull 翼を授ける。広げるのは君だ。
 date: "2018-04-04T00:00:00.000Z"
 description: LJL, ゲーミングリクルート, PUBG, CrossFire
 file: /audio/5.mp3
