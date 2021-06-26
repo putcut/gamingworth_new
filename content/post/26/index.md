@@ -8,11 +8,9 @@ filesize: 70506312
 
 `audio: /audio/26.mp3`
 
-- PSJ Hubs
-  + https://twitter.com/PUBGSCRIMJAPAN/status/1301134974158999552
+- [PSJ Hubs](https://twitter.com/PUBGSCRIMJAPAN/status/1301134974158999552)
 - LJLの歴史が変わった日
-- 負けたのは誰のせいか
-  + https://twitter.com/enty925/status/1302210496825753600
+- [負けたのは誰のせいか](https://twitter.com/enty925/status/1302210496825753600)
 - Anker Nebula Cosmos
 - アニメ
 - 本

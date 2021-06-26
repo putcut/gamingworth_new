@@ -9,8 +9,8 @@ filesize: 69256127
 `audio: /audio/7.mp3`
 
 - Daraの話
-    + [LJL最悪の日　Dara選手引退について](https://note.mu/j1n1/n/n74d7938e449d) by J1N1
-    + [沈黙は金ではない――Dara選手引退に際してライアットゲームズとLJL関係者に望むこと](https://note.mu/nasobem/n/n18780cd74aac) by なぞべーむ
+- [LJL最悪の日　Dara選手引退について](https://note.mu/j1n1/n/n74d7938e449d) by J1N1
+- [沈黙は金ではない――Dara選手引退に際してライアットゲームズとLJL関係者に望むこと](https://note.mu/nasobem/n/n18780cd74aac) by なぞべーむ
 - [e-sportsで給料35万](https://twitter.com/barusa3/status/992191163967852545) 
 - 映画の話
 - GW感想

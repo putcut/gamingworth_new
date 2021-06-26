@@ -10,7 +10,7 @@ filesize: 99036300
 
 - 宴CSGO/VALORANT
 - Apex Legendsの競技シーン
-  + [Go_Tsukishima](https://www.twitch.tv/go_tsukishima)
+- [Go_Tsukishima](https://www.twitch.tv/go_tsukishima)
 - 家の話
 - ゲーミングチェア
 - 仕事の話

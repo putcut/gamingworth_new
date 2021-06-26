@@ -10,9 +10,9 @@ filesize: 89512021
 
 - PUBGの終わり
 - RTAの世界
-  + [RTA in Japan](https://rtain.jp/)
-  + [どうぶつの森](https://twitter.com/joinjoin_jony/status/1210954313322745856)
-  + [ドラクエ](https://youtu.be/A2bWFKkcRRI)
+- [RTA in Japan](https://rtain.jp/)
+- [どうぶつの森](https://twitter.com/joinjoin_jony/status/1210954313322745856)
+- [ドラクエ](https://youtu.be/A2bWFKkcRRI)
 - [ゲームさんぽ](https://www.youtube.com/user/gotouchi10sec)
 - 鉄拳
 - 年末年始

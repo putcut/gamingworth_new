@@ -16,5 +16,5 @@ filesize: 93455876
 - [めっちゃかっこいいビートセイバー](https://www.youtube.com/watch?v=o27W2ELMfho)
 - SHIROBAKO劇場版
 - Live Coding
-  + [George Hotz Live Coding](https://youtu.be/7Hlb8YX2-W8)
+- [George Hotz Live Coding](https://youtu.be/7Hlb8YX2-W8)
 - 香川県ゲーム規制条例

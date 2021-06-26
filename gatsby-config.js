@@ -124,9 +124,30 @@ module.exports = {
           {
             serialize: ({ query: { site, allMarkdownRemark } }) => {
               return allMarkdownRemark.edges.map(edge => {
+                console.log(edge.node.html
+                  .replace(/\t/g, '')
+                  .replace(/\n/g, '')
+                  .replace(/<p>/, '')
+                  .replace(/<audio/, '')
+                  .replace(/.*mp3/, '')
+                  .replace(/preload="auto"/, '')
+                  .replace(/controls/, '')
+                  .replace(/"undefined"/, '')
+                  .replace(/.*<\/audio>/, '')
+                  .replace(/<\/p>/, ''))
                 return Object.assign({}, edge.node.frontmatter, {
                   title: edge.node.fields.slug.replace(/\//g, '') + `. ` + edge.node.frontmatter.title,
-                  description: edge.node.frontmatter.description,
+                  description: edge.node.html
+                    .replace(/\t/g, '')
+                    .replace(/\n/g, '')
+                    .replace(/<p>/, '')
+                    .replace(/<audio/, '')
+                    .replace(/.*mp3/, '')
+                    .replace(/preload="auto"/, '')
+                    .replace(/controls/, '')
+                    .replace(/"undefined"/, '')
+                    .replace(/.*<\/audio>/, '')
+                    .replace(/<\/p>/, ''),
                   date: edge.node.frontmatter.date,
                   url: site.siteMetadata.siteUrl + edge.node.fields.slug,
                   guid: site.siteMetadata.siteUrl + edge.node.fields.slug,
@@ -149,6 +170,7 @@ module.exports = {
                         file
                         filesize
                       }
+                      html
                     }
                   }
                 }

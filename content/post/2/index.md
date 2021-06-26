@@ -17,4 +17,4 @@ filesize: 94898877
 - モンスターハンター
 - Battalion 1944
 - [EVO Japan](https://evo-japan.net/)
-  - [EVO Japan@hameko](https://twitter.com/hameko/status/959002480330723334/)
+- [EVO Japan@hameko](https://twitter.com/hameko/status/959002480330723334/)

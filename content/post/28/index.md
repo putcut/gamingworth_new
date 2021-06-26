@@ -14,9 +14,9 @@ filesize: 80473152
 - 高校サッカーと春高バレー
 - 緊急事態宣言
 - アニメ
-  - アルドノア・ゼロ
+- アルドノア・ゼロ
 - 歯医者
 - [ACM](https://www.acm.org/)
-  - [ACM Professional Membershipの登録](https://agnozingdays.hatenablog.com/entry/2018/08/02/235021)
+- [ACM Professional Membershipの登録](https://agnozingdays.hatenablog.com/entry/2018/08/02/235021)
 - Looking for GGのリプレイス
 - Apex Legends

@@ -11,7 +11,7 @@ filesize: 92854035
 - HearthStone中国シーン
 - Tokyo Game Show
 - PJS
-  + [PUBG eSports Conference](https://www.4gamer.net/games/348/G034868/20180922001/)
+- [PUBG eSports Conference](https://www.4gamer.net/games/348/G034868/20180922001/)
 - Detonation Focus Me
 - 旅行
 - 本田Wing

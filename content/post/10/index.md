@@ -11,7 +11,7 @@ filesize: 96211737
 - PGI感想
 - 日本のPUBG
 - Dota2
-  + [野球犬さんの初心者向け解説](https://twitter.com/baseballdogs5/status/1025775538277822464)
+- [野球犬さんの初心者向け解説](https://twitter.com/baseballdogs5/status/1025775538277822464)
 - [ときどの情熱大陸](https://twitter.com/Dragon_lily/status/1028644449708994562)
 - 映画（ポケモン、詩季織々、ペンギンハイウェイ）
 - コミケ
