@@ -10,6 +10,6 @@ filesize: 66668931
 
 - PAI
 - PJS Season2 Phase1 PaR
-- NPL [(blog)](http://putcut.hatenablog.com/)
+- NPL [(blog)](https://blog.putcut.net/npl-2019-phase1/)
 - GALLERIA Lounge
 - 読んだ本
